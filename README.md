@@ -31,10 +31,22 @@ The Python library for numerical operations.
 ## Project Structure
 The project is structured as follows:
 
-Data Gathering: Description of the data source and the process of obtaining the IPL dataset.
-Data Preprocessing: Steps taken to clean and prepare the data for analysis.
-Exploratory Data Analysis: In-depth exploration of the IPL dataset, including visualizations, statistical summaries, and key observations.
-Insights and Recommendations: Extracted insights from the analysis and recommendations for cricket teams, sponsors, and broadcasters.
+### Data Gathering: 
+Description of the data source and the process of obtaining the IPL dataset.
+### Data Preprocessing: 
+Steps taken to clean and prepare the data for analysis.
+### Exploratory Data Analysis: 
+In-depth exploration of the IPL dataset, including visualizations, statistical summaries, and key observations.
+### Insights and Recommendations: 
+Extracted insights from the analysis and recommendations for cricket teams, sponsors, and broadcasters.
+## Visualizations
+### Top 10 High Score Of all time in IPL
+![image](https://github.com/AnniAgra786/Exploratory-Data-Analysis-On-IPL-Statistics/assets/109506450/66b4ec34-2ff8-4d63-9838-d9e76b896f07)
+### Player's Who won many man Of the Matches
+![image](https://github.com/AnniAgra786/Exploratory-Data-Analysis-On-IPL-Statistics/assets/109506450/2e4bc0d3-cd12-4b3d-92e0-31f885ae9f71)
+### Teams Ranking  with Highest score in Single Match
+![image](https://github.com/AnniAgra786/Exploratory-Data-Analysis-On-IPL-Statistics/assets/109506450/44fedaf2-66f4-4a11-a28c-36b718f168aa)
+
 
 ## Conclusion: 
 1. Top Run chasing Team - Kolkata Night Riders
